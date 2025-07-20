@@ -43,5 +43,5 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Simulate Deployment
+      - name: Simulate Deployments
         run: echo "🚀 Deploying to production..."
